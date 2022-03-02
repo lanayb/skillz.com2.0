@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/skillz.com2.0/static/js/main.426e4e43.js",
+    "main.css": "/skillz.com2.0/static/css/main.6cdcef7a.css",
+    "main.js": "/skillz.com2.0/static/js/main.d79919cc.js",
+    "static/media/lanay.png": "/skillz.com2.0/static/media/lanay.06db30663d955272c74e.png",
     "index.html": "/skillz.com2.0/index.html",
-    "main.426e4e43.js.map": "/skillz.com2.0/static/js/main.426e4e43.js.map"
+    "main.6cdcef7a.css.map": "/skillz.com2.0/static/css/main.6cdcef7a.css.map",
+    "main.d79919cc.js.map": "/skillz.com2.0/static/js/main.d79919cc.js.map"
   },
   "entrypoints": [
-    "static/js/main.426e4e43.js"
+    "static/css/main.6cdcef7a.css",
+    "static/js/main.d79919cc.js"
   ]
 }
